@@ -1,6 +1,4 @@
-/*********************************
- * ALL IMPORTS AT TOP (GOOD PRACTICE)
- *********************************/
+
 const express = require("express");
 const dotenv = require("dotenv");
 
